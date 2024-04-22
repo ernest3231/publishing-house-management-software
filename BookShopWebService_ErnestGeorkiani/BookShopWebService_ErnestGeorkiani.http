@@ -1,0 +1,6 @@
+@BookShopWebService_ErnestGeorkiani_HostAddress = http://localhost:5208
+
+GET {{BookShopWebService_ErnestGeorkiani_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
